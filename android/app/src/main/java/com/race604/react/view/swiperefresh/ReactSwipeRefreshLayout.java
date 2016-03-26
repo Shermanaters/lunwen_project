@@ -11,7 +11,7 @@ import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.uimanager.events.NativeGestureUtil;
 
 /**
- * Created by Jing on 15/9/30.
+ * Created by zhaojiakang on 15/9/30.
  */
 public class ReactSwipeRefreshLayout extends SwipeRefreshLayout {
 

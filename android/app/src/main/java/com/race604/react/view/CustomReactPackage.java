@@ -15,7 +15,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by Jing on 15/9/22.
+ * Created by zhaojiakang on 15/9/22.
  */
 public class CustomReactPackage implements ReactPackage {
 

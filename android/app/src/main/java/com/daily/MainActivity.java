@@ -1,4 +1,4 @@
-package com.rctzhihudaily;
+package com.daily;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import com.facebook.react.ReactRootView;
 import com.facebook.react.modules.core.DefaultHardwareBackBtnHandler;
 import com.facebook.react.shell.MainReactPackage;
 import com.race604.react.view.CustomReactPackage;
-import com.rctzhihudaily.BuildConfig;
+import com.daily.BuildConfig;
 
 public class MainActivity extends Activity implements DefaultHardwareBackBtnHandler {
 

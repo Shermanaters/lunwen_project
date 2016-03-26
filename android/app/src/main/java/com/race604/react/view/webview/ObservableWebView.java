@@ -12,7 +12,7 @@ import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.uimanager.events.RCTEventEmitter;
 
 /**
- * Created by Jing on 15/9/22.
+ * Created by zhaojiakang on 15/9/22.
  */
 public class ObservableWebView extends WebView {
 

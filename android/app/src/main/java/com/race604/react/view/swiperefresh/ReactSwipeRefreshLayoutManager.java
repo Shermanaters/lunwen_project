@@ -20,7 +20,7 @@ import java.util.Map;
 import javax.annotation.Nullable;
 
 /**
- * Created by Jing on 15/9/30.
+ * Created by zhaojiakang on 15/9/30.
  */
 public class ReactSwipeRefreshLayoutManager extends ViewGroupManager<ReactSwipeRefreshLayout> {
 
