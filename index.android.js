@@ -34,14 +34,14 @@ BackAndroid.addEventListener('hardwareBackPress', function() {
   return false;
 });
 
-var RCTZhiHuDaily = React.createClass({
+var Daily = React.createClass({
   mixins: [TimerMixin],
   componentDidMount: function() {
     this.setTimeout(
       () => {
         this.setState({splashed: true});
       },
-      2000,
+      2000
     );
   },
   RouteMapper: function(route, navigationOperations, onComponentRef) {
@@ -101,4 +101,4 @@ var styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('RCTZhiHuDaily', () => RCTZhiHuDaily);
+AppRegistry.registerComponent('Daily', () => Daily);
