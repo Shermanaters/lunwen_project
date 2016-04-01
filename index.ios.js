@@ -4,6 +4,8 @@
  */
 'use strict';
 
+//你逗我吗？！
+
 var React = require('react-native');
 var {
   AppRegistry,
